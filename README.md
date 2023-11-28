@@ -11,7 +11,6 @@ This Just Tech News application is refactored to use Python instead of Javascrip
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [References](#references)
 - [License](#license)
@@ -27,14 +26,6 @@ This Just Tech News application is refactored to use Python instead of Javascrip
 - Jinja
 - bycrpt
 - python-dotenv
-
-## Deployment
-
-- The application has been deployed to Heroku:-
-
-  ![alt text](./assets/img03.jpg)
-
-- The URL of the functional deployed application is https://serene-sierra-38154.herokuapp.com/
 
 ## Usage
 
@@ -55,25 +46,6 @@ This application requires the following steps up to deployment:-
 - Configuring Heroku by using Gunicorn to run flask
 
 At develop stage, the flask server is start by running the following command, python -m flask run
-
-The screenshots of the overview of the application:-
-
-- **The login and signup page**
-  ![alt text](./assets/img02.jpg)
-
-- **The dashboard page**
-  ![alt text](./assets/img01.jpg)
-
-- **The create new posts page**
-  ![alt text](./assets/img03.jpg)
-
-- **The comments page**
-  ![alt text](./assets/img04.jpg)
-
-- **The Edits page**  
-  ![alt text](./assets/img05.jpg)
-
-## References
 
 - Python for Javascript Developers (Continuation Course)
 
